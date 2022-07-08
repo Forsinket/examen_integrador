@@ -1,3 +1,3 @@
 # examen_integrador
 
-Johana Escudero
+Gonzalo Satina Naggi
