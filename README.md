@@ -1,3 +1,3 @@
 # examen_integrador
 
-Andres Gutierrez
+Johana Escudero
